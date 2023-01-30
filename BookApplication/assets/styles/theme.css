@@ -1,12 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
 *{
     /*Font Details*/
     --fontSizeXSmall: 16px;
     --fontSizeSmall: 20px;
     --fontSizeMedium: 38px;
+    --font: 'Lato', sans-serif;
 
     /*Colors*/
-    --websiteBgColor: #a9a3a3;
-    --headerBgColor: #706f69;
+    --websiteBgColor: #ffffff;
+    --headerBgColor: #ffffff;
     --btnBgColor: #342c2c;
     --bntTextColor: #ddd;
     --bntHoverColor:#868181 ;
