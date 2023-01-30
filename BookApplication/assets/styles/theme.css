@@ -1,0 +1,16 @@
+*{
+    /*Font Details*/
+    --fontSizeXSmall: 16px;
+    --fontSizeSmall: 20px;
+    --fontSizeMedium: 38px;
+
+    /*Colors*/
+    --websiteBgColor: #a9a3a3;
+    --headerBgColor: #706f69;
+    --btnBgColor: #342c2c;
+    --bntTextColor: #ddd;
+    --bntHoverColor:#868181 ;
+    --tableBgColor: #191818;
+    --tableTextColor:  white;
+    --tableBorderColor:#000000;
+}
